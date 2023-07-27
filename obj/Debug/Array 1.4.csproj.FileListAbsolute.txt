@@ -1,0 +1,8 @@
+E:\Assisted project\Section 8\Array 1.4\bin\Debug\Array 1.4.exe.config
+E:\Assisted project\Section 8\Array 1.4\bin\Debug\Array 1.4.exe
+E:\Assisted project\Section 8\Array 1.4\bin\Debug\Array 1.4.pdb
+E:\Assisted project\Section 8\Array 1.4\obj\Debug\Array 1.4.csproj.AssemblyReference.cache
+E:\Assisted project\Section 8\Array 1.4\obj\Debug\Array 1.4.csproj.SuggestedBindingRedirects.cache
+E:\Assisted project\Section 8\Array 1.4\obj\Debug\Array 1.4.csproj.CoreCompileInputs.cache
+E:\Assisted project\Section 8\Array 1.4\obj\Debug\Array 1.4.exe
+E:\Assisted project\Section 8\Array 1.4\obj\Debug\Array 1.4.pdb
